@@ -33,5 +33,9 @@ He gave the shop owner €13 ($€10 + €2 + €1$)
 This is what else he wrote in Notepad.
 $$
 \textrm{change} = \textrm{cash} - \textrm{cost} = 13 - 12.87 =€0.13
-
 $$
+
+Then he put back his laptop in his bag 
+and he had fun with his freinds and family.
+
+Keep your eyes open for Part 2! :D
