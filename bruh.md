@@ -4,11 +4,11 @@ He went to a ice cream shop because it was 31°C outside and he really wanted a 
 
 This is the price for the scoops.
 🍨
-|Scoops|Price|
-|------|-----|
-|1 scoop| €0.99|
-|2 scoops| €1.99|
-|3 scoops| €2.99|
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content cell  |
 
 Luckily, Diego had €50 in his wallet so he can buy ice cream for his friends and family. He decided to buy 1 scoop for  each of them and one for himself.
 
@@ -36,6 +36,6 @@ $$
 $$
 
 Then he put back his laptop in his bag 
-and he had fun with his freinds and family.
+and he had fun with his friends and family.
 
 Keep your eyes open for Part 2! :D
