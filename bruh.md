@@ -24,7 +24,7 @@ total scoops = 10 + 1 + 2 = 13
 total cost = 13 &times; €0.99 = €12.87
 
 
-\textrm{euros owned} = €20 + €10 &times; 2 + €5 + €2 &times; 2 + €1
+euros owned = €20 + €10 &times; 2 + €5 + €2 &times; 2 + €1
 
 
 He gave the shop owner €13 (€10 + €2 + €1) 
