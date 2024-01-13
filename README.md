@@ -14,4 +14,4 @@ Right now I'm learning Markdown and HTML for markup languages and Python for pro
 ## Other
 
 - [If you like to fork my work](https://github.com/mugboy/mugboy.github.io)
-- [My eyes](https://127.0.0.1:5000)
+- [My eyes](file:///C:/code/mugboy.github.io/index.html)
