@@ -1,0 +1,17 @@
+{
+    "Water+Water": "Lake",
+    "Fire+Water": "Steam",
+    "Water+Wind": "Rain",
+    "Earth+Water": "Plant",
+    "Steam+Water": "Water",
+    "Fire+Fire": "Flame",
+    "Fire+Wind": "Smoke",
+    "Earth+Fire": "Volcano",
+    "Fire+Steam": "Burning Steam",
+    "Wind+Wind": "Windstorm",
+    "Earth+Wind": "Dust",
+    "Steam+Wind": "Dancing Cloud",
+    "Earth+Earth": "Mountain",
+    "Earth+Steam": "Hot Dust",
+    "Steam+Steam": "Cloud"
+}

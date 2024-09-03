@@ -1,0 +1,25 @@
+.sidebar {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    left: 80%;
+    width: 20%;
+    background-color: #a9a9a9;
+}
+
+.btn {
+    margin: 10px;
+}
+
+.slot {
+    border: 5px solid black !important;
+}
+
+.machine {
+    position: absolute;
+    top: 50%;
+}
+
+.operator {
+    font-size: 25px;
+}
