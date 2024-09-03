@@ -14,7 +14,7 @@ const game = {
   },
 
   async loadRecipes() {
-    await fetch("../data/recipes.json")
+    await fetch("data/recipes.json")
       .then((response) => response.json())
       .then((data) => {
         this.recipes = data;
@@ -25,7 +25,7 @@ const game = {
   },
 
   async loadEmojis() {
-    await fetch("../data/emojis.json")
+    await fetch("data/emojis.json")
       .then((response) => response.json())
       .then((data) => {
         this.emojis = data;
