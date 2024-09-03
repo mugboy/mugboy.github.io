@@ -88,7 +88,7 @@ const game = {
         resultSlot.html(`${this.emojis[this.recipes[recipe]]} ${this.recipes[recipe]}`);
       }
 
-      if (!(this.recipes[recipe] in this.inventory)) {
+      if (this.recipes[recipe] in this.inventory === false) {
         this.inventory.push(this.recipes[recipe]);
         this.addButtons();
       }
