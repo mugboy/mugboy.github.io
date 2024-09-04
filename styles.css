@@ -37,6 +37,11 @@ body {
   font-size: 30px;
 }
 
+header {
+  position: absolute;
+  top: 3%;
+}
+
 main {
   position: absolute;
   top: 25%;
