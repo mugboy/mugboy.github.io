@@ -4,7 +4,7 @@ const ctx = canvas.getContext("2d");
 ctx.canvas.width = window.innerWidth;
 ctx.canvas.height = window.innerHeight + 500;
 
-const chars = "ILOVEYOU"
+const chars = "`1234567890-=~!@#$%^&*()_+qwertyuiop[]\QWERTYUIOP{}|asdfghjkl;'ASDFGHJKL:zxcvbnm,./ZXCVBNM<>?"
 var letterYPositions = [];
 
 var charColumn = Math.floor(ctx.canvas.width / 30);
