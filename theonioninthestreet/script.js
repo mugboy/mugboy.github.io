@@ -1,7 +1,11 @@
+
+const game_width = window.innerWidth;
+const game_height = window.innerHeight;
+
 var config = {
   type: Phaser.AUTO,
-  width: 800,
-  height: 600,
+  width: game_width,
+  height: game_height,
   physics: {
     default: "arcade",
     arcade: {
@@ -96,7 +100,7 @@ function create() {
 }
 
 function addStar() {
-  var x = Phaser.Math.Between(0, 800);
+  var x = Phaser.Math.Between(0, game_width);
   var star = stars.create(x, 0, "star");
   this.physics.add.overlap(player, star, collectStar, null, this);
 
@@ -155,7 +159,7 @@ function hitBomb(player, bomb) {
 function addBomb() {
   var x =
     player.x < 400
-      ? Phaser.Math.Between(400, 800)
+      ? Phaser.Math.Between(400, game_width)
       : Phaser.Math.Between(0, 400);
 
   var bomb = bombs.create(x, 16, "bomb");
