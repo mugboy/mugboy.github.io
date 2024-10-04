@@ -24,13 +24,9 @@
 }
 
 body {
-  font-family: "Roboto Condensed";
   display: grid;
   place-items: center;
   margin: 0;
-
-  background: radial-gradient(circle, var(--blue), var(--gray-600));
-  background-attachment: fixed;
 }
 
 .title {
@@ -53,6 +49,6 @@ footer {
 }
 
 abbr {
-  color: var(--gray-400);
+  color: var(--gray-600);
   text-decoration: underline wavy;
 }
