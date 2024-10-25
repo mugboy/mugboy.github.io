@@ -1,3 +1,5 @@
+/// <reference path="../typings/phaser.d.ts" />
+
 
 const game_width = window.innerWidth;
 const game_height = window.innerHeight;
